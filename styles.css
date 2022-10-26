@@ -43,4 +43,17 @@ footer {
     border-top: 1px solid burlywood;
 }
 
+body {
+    font-family: 'Verdana', 'Arial';
+    max-width: 1280px;
+    margin: auto;
+    margin-top: 0px;
+}
 
+.container, header, footer{
+    background-color: beige;
+}
+
+p {
+    text-align: justify;
+}
